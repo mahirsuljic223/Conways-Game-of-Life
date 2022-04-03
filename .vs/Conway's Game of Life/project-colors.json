@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "17156389-490c-4ce5-9f4f-3f66edb29bee": {
+      "ProjectGuid": "17156389-490c-4ce5-9f4f-3f66edb29bee",
+      "DisplayName": "Conway's Game of Life",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

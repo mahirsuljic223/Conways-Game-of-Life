@@ -1,0 +1,15 @@
+C:\Users\Mahir\source\repos\Conway's Game of Life\Conway's Game of Life\bin\Debug\Conway's Game of Life.exe.config
+C:\Users\Mahir\source\repos\Conway's Game of Life\Conway's Game of Life\bin\Debug\Conway's Game of Life.exe
+C:\Users\Mahir\source\repos\Conway's Game of Life\Conway's Game of Life\bin\Debug\Conway's Game of Life.pdb
+C:\Users\Mahir\source\repos\Conway's Game of Life\Conway's Game of Life\obj\Debug\Conway's Game of Life.csproj.AssemblyReference.cache
+C:\Users\Mahir\source\repos\Conway's Game of Life\Conway's Game of Life\obj\Debug\Conway's Game of Life.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mahir\source\repos\Conway's Game of Life\Conway's Game of Life\obj\Debug\Conway_s_Game_of_Life.Main.resources
+C:\Users\Mahir\source\repos\Conway's Game of Life\Conway's Game of Life\obj\Debug\Conway_s_Game_of_Life.Properties.Resources.resources
+C:\Users\Mahir\source\repos\Conway's Game of Life\Conway's Game of Life\obj\Debug\Conway's Game of Life.csproj.GenerateResource.cache
+C:\Users\Mahir\source\repos\Conway's Game of Life\Conway's Game of Life\obj\Debug\Conway's Game of Life.csproj.CoreCompileInputs.cache
+C:\Users\Mahir\source\repos\Conway's Game of Life\Conway's Game of Life\obj\Debug\Conway's Game of Life.exe
+C:\Users\Mahir\source\repos\Conway's Game of Life\Conway's Game of Life\obj\Debug\Conway's Game of Life.pdb
+C:\Users\Mahir\source\repos\Conway's Game of Life\Conway's Game of Life\bin\Debug\Conway's Game of Life.exe.manifest
+C:\Users\Mahir\source\repos\Conway's Game of Life\Conway's Game of Life\bin\Debug\Conway's Game of Life.application
+C:\Users\Mahir\source\repos\Conway's Game of Life\Conway's Game of Life\obj\Debug\Conway's Game of Life.exe.manifest
+C:\Users\Mahir\source\repos\Conway's Game of Life\Conway's Game of Life\obj\Debug\Conway's Game of Life.application
